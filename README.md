@@ -1,13 +1,13 @@
-# django-
-基于nginx+uwsgi+django的个人博客
-nginx --version1.4.7
-django －－version1.7.6
-部署修改uwsgi.xml文件
+# django-<br />
+基于nginx+uwsgi+django的个人博客<br />
+nginx --version1.4.7<br />
+django －－version1.7.6<br />
+部署修改uwsgi.xml文件<br />
 
 －－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－
 No:1 2015/3/16 <br/>
-  基本部署好基础页模版
-  大致框架完成
+  1.基本部署好基础页模版<br />
+  2.大致框架完成<br />
   
   
   
